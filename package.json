@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@ai-sdk/gateway": "^4.0.87",
+    "dotenv": "^18.0.1",
+    "ws": "^8.21.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/ws": "^8.18.1",
+    "pptxgenjs": "^4.0.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
