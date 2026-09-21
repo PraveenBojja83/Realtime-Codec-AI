@@ -49,5 +49,3 @@ The new key is stored in .env:
 You run:
 
 The code should then authenticate, connect to the realtime model, print the transcript, and create reply.wav.
-
-The API key does not need to be written into the code. Do not send credit-card details here or commit the API key to GitHub.
