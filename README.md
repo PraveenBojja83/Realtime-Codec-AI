@@ -39,3 +39,15 @@ The code explanation is available in `realtime-code-explained.pptx`. Regenerate 
 ```powershell
 node create-presentation.mjs
 ```
+
+Yes, provided that:
+
+The valid payment method is added to the correct Vercel team linked to your API key.
+The new key is stored in .env:
+
+.env is in vercel and not .env.example.
+You run:
+
+The code should then authenticate, connect to the realtime model, print the transcript, and create reply.wav.
+
+The API key does not need to be written into the code. Do not send credit-card details here or commit the API key to GitHub.
